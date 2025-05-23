@@ -74,7 +74,7 @@ You need the server’s IP address so the client can connect to it.
 Run this on the server:
 
 ```bash
-ip addr show
+ip a
 ```
 
 Look for an IP address under your network interface, usually something like `192.168.x.x` (local network) or a public IP if over the internet.
