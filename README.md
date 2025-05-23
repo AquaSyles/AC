@@ -104,6 +104,14 @@ Example:
 
 The server will receive the file and automatically decrypt it to the current directory.
 
+### 8. Adding AC to path (optional)
+
+Adding AC to path will let us run the program from anywhere without specifying the path.
+
+```bash
+sudo mv ac /usr/bin
+```
+
 ---
 
 ## Notes
