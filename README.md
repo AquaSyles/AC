@@ -11,6 +11,10 @@ A simple client-server utility in C that securely transfers files over TCP using
 
 ## How to Use
 
+### 0. Open the Terminal
+
+Open any terminal emulator (GNOME Terminal, Konsole, Alacritty, or xfce4-terminal). You'll run all commands from there.
+
 ### 1. Get the Code
 
 Clone the project from GitHub:
