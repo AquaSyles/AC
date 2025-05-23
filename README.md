@@ -32,14 +32,14 @@ On Ubuntu/Debian:
 
 ```bash
 sudo apt update
-sudo apt install build-essential libssl-dev
+sudo apt install build-essential libssl-dev git
 ```
 
 On Arch:
 
 ```bash
 sudo pacman -Syu
-sudo pacman -S base-devel openssl
+sudo pacman -S base-devel openssl git
 ```
 
 ### 3. Compile the Code
